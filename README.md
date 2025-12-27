@@ -33,3 +33,18 @@ Password: test123
 - API integration
 - Real-world debugging
 - Production-style coding practices
+
+## How to Run Locally
+
+### Backend
+cd backend
+npm install
+npm start
+
+### Frontend
+cd frontend
+npm install
+npm start
+
+Frontend runs on http://localhost:3000  
+Backend runs on http://localhost:5000
