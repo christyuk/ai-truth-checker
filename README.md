@@ -1,0 +1,35 @@
+# AI Truth Checker
+
+A full-stack AI-based truth verification web application.
+
+## Features
+- User authentication using JWT
+- Protected frontend routes
+- Secure backend APIs
+- Truth verification with confidence score
+- Clean and modular architecture
+
+## Tech Stack
+- Frontend: React, Axios
+- Backend: Node.js, Express
+- Authentication: JWT
+- Deployment-ready architecture
+
+## Demo Login
+Username: test  
+Password: test123
+
+## API Endpoints
+- POST /api/auth/login
+- POST /api/truth/check (protected)
+
+## Project Structure
+- frontend/ → React UI
+- backend/ → Node.js API
+
+## What This Project Demonstrates
+- Full-stack development
+- Authentication & authorization
+- API integration
+- Real-world debugging
+- Production-style coding practices
