@@ -2,6 +2,10 @@
 
 A full-stack AI-based truth verification web application.
 
+Live Demo
+Frontend: https://frontend-six-sable-30.vercel.app
+Backend: https://<your-backend-url>
+
 ## Features
 - User authentication using JWT
 - Protected frontend routes
