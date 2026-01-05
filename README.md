@@ -1,6 +1,7 @@
 # AI Truth Checker
 
 A full-stack AI-based truth verification web application.
+🚀 Live Demo: https://frontend-six-sable-30.vercel.app
 
 Live Demo:
 Frontend: https://frontend-six-sable-30.vercel.app
