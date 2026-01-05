@@ -2,9 +2,10 @@
 
 A full-stack AI-based truth verification web application.
 
-Live Demo
+Live Demo:
 Frontend: https://frontend-six-sable-30.vercel.app
-Backend: https://<your-backend-url>
+Backend Health: https://truth-checker-backend.onrender.com/health
+
 
 ## Features
 - User authentication using JWT
