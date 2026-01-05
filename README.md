@@ -54,3 +54,18 @@ npm start
 
 Frontend runs on http://localhost:3000  
 Backend runs on http://localhost:5000
+
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Truth Check Result
+![Truth Check](screenshots/truth-check.png)
+
+### Backend Health
+![Backend Health](screenshots/backend-health.png)
+
