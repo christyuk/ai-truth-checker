@@ -1,11 +1,15 @@
 # AI Truth Checker
+⭐ This project demonstrates real-world full-stack development, authentication, deployment, and debugging.
 
 A full-stack AI-based truth verification web application.
 🚀 Live Demo: https://frontend-six-sable-30.vercel.app
 
+ℹ️ Demo mode is enabled for recruiter testing. No signup required.
+
 Live Demo:
 Frontend: https://frontend-six-sable-30.vercel.app
 Backend Health: https://truth-checker-backend.onrender.com/health
+
 
 
 ## Features
